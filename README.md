@@ -10,7 +10,6 @@ I'm currently learning the fundamentals of programming and exploring the world o
 
 ## Programming Interests
 
-
 * C language
 * Artificial Intelligence
 * Programming Fundamentals
@@ -19,10 +18,22 @@ I'm currently learning the fundamentals of programming and exploring the world o
 
 ## Currently Learning
 
-I'm currently focusing on strengthening my programming fundamentals, learning C , and developing a better understanding of AI concepts.
+I'm currently focusing on strengthening my programming fundamentals, learning C, and developing a better understanding of AI concepts.
+
+### My Learning Goals
+
+1. Improve my programming skills
+2. Learn more about Artificial Intelligence
+3. Build small programming projects
+4. Develop my problem-solving skills
 
 ## My Goal
 
 My goal is to continuously learn, build projects, and develop the skills needed to become an **AI Engineer** in the future.
 
-> "Learning one line of code at a time." 
+***I believe that consistent learning and practice can help me achieve my goals.***
+
+## Practicing
+ "Learning one line of code at a time." 
+
+
